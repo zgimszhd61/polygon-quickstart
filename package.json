@@ -1,0 +1,20 @@
+{
+  "name": "polygon-quickstart",
+  "version": "1.0.0",
+  "description": "Polygon是一个构建和连接兼容以太坊的区块链网络的协议和框架。它在以太坊的基础上提供了更快的交易速度和更低的交易费用，使得开发者能够为用户构建更快、更便宜的应用程序。以下是一个简单的Polygon编程快速入门教程，旨在帮助开发者快速上手在Polygon网络上构建应用。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "^6.11.1",
+    "hardhat": "^2.22.2"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "dotenv": "^16.4.5"
+  }
+}
